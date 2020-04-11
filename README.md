@@ -19,5 +19,9 @@
 
 #### Este projeto teve como objetivo criar um Front-end simples utilizando HTML e CSS para um site de uma modelo fictícia de nome "Anna Bela"
 
+## :memo: Licença
+
+#### Esse projeto está sob a licença [MIT](./LICENSE)
+
 
 Feito com ❤️ Luciano Teles
