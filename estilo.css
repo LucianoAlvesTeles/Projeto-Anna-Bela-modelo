@@ -1,0 +1,47 @@
+body{
+	background: #d2d2c1 url('imagens/fundo.png'); /* coloca-se cor para ser aplicada caso a imgem nao carregue*/
+	font: 16px Arial, Helvetica, sans-serif;
+}
+
+#principal{
+	
+	width: 900px; /* define a largura fixa da div principal*/
+}
+
+#menu{
+
+	background: #c5c5b2; /* cor de fundo da div*/
+	padding: 18px ; /* padding é espaçamento (preecnchimento) interno, nesse caso, da div*/
+}
+
+#conteudo{ /* ID */
+
+	background: #e8e8d9; 
+	padding: 10px ; /* define o preenchimento interno*/
+}
+
+#rodape{
+
+	text-align: center;
+}
+
+a {
+
+	/*formatando todos os links do site*/
+	color: #4b566a;
+	text-decoration: none; /*serve para tirar o underline que vem por padrao no link*/
+	font-weight: bold; /* negrito*/
+	padding: 5px; /*define o preenchimento interno do bloco da tag "a"*/
+}
+
+.img-campanha{
+
+	border: 10px solid #c3c3ae;
+}
+
+h1{
+
+	color:#828271;
+	font-size: 1.4em;
+}
+
